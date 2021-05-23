@@ -1,21 +1,21 @@
 .top {
     background-color: azure;
-    border: 1 px solid red;
-    width: 400 px;
-    height: 436 px;
-    margin-left: 500 px;
+    border: 1px solid red;
+    width: 400px;
+    height: 436px;
+    margin-left: 500px;
 }
 
 .name,
 .password,
 .desction,
 .email {
-    width: 200 px;
-    height: 30 px;
-    margin-left: 88 px;
+    width: 200px;
+    height: 30px;
+    margin-left: 88px;
 }
 
 .top p {
     text-align: center;
-    margin-top: 10 px;
+    margin-top: 10px;
 }
